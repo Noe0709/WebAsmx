@@ -1,0 +1,10 @@
+C:\Users\Noe Gomez\Desktop\xxx\ingeniero\webService\LogicaNegocios\bin\Release\LogicaNegocios.dll
+C:\Users\Noe Gomez\Desktop\xxx\ingeniero\webService\LogicaNegocios\bin\Release\LogicaNegocios.pdb
+C:\Users\Noe Gomez\Desktop\xxx\ingeniero\webService\LogicaNegocios\bin\Release\LogicaNegocios.xml
+C:\Users\Noe Gomez\Desktop\xxx\ingeniero\webService\LogicaNegocios\obj\Release\LogicaNegocios.vbproj.AssemblyReference.cache
+C:\Users\Noe Gomez\Desktop\xxx\ingeniero\webService\LogicaNegocios\obj\Release\LogicaNegocios.Resources.resources
+C:\Users\Noe Gomez\Desktop\xxx\ingeniero\webService\LogicaNegocios\obj\Release\LogicaNegocios.vbproj.GenerateResource.cache
+C:\Users\Noe Gomez\Desktop\xxx\ingeniero\webService\LogicaNegocios\obj\Release\LogicaNegocios.vbproj.CoreCompileInputs.cache
+C:\Users\Noe Gomez\Desktop\xxx\ingeniero\webService\LogicaNegocios\obj\Release\LogicaNegocios.dll
+C:\Users\Noe Gomez\Desktop\xxx\ingeniero\webService\LogicaNegocios\obj\Release\LogicaNegocios.xml
+C:\Users\Noe Gomez\Desktop\xxx\ingeniero\webService\LogicaNegocios\obj\Release\LogicaNegocios.pdb

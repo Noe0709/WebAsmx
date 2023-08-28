@@ -1,0 +1,45 @@
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\webService1\bin\webService1.dll.config
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\webService1\bin\webService1.dll
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\webService1\bin\webService1.pdb
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\webService1\bin\webService1.xml
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\webService1\bin\LogicaNegocios.dll
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\webService1\bin\Oracle.DataAccess.dll
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\webService1\bin\CapaDatos.dll
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\webService1\bin\LogicaNegocios.pdb
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\webService1\bin\LogicaNegocios.xml
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\webService1\bin\CapaDatos.pdb
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\webService1\bin\CapaDatos.xml
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\webService1\obj\Debug\webService1.vbprojResolveAssemblyReference.cache
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\webService1\obj\Debug\webService1.Resources.resources
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\webService1\obj\Debug\webService1.vbproj.GenerateResource.Cache
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\webService1\obj\Debug\webService1.dll
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\webService1\obj\Debug\webService1.xml
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\webService1\obj\Debug\webService1.pdb
+C:\Users\DANIEL\Downloads\webService\webService\webService1\bin\webService1.dll.config
+C:\Users\DANIEL\Downloads\webService\webService\webService1\bin\webService1.dll
+C:\Users\DANIEL\Downloads\webService\webService\webService1\bin\webService1.pdb
+C:\Users\DANIEL\Downloads\webService\webService\webService1\bin\webService1.xml
+C:\Users\DANIEL\Downloads\webService\webService\webService1\bin\LogicaNegocios.dll
+C:\Users\DANIEL\Downloads\webService\webService\webService1\bin\LogicaNegocios.pdb
+C:\Users\DANIEL\Downloads\webService\webService\webService1\bin\LogicaNegocios.xml
+C:\Users\DANIEL\Downloads\webService\webService\webService1\obj\Debug\webService1.vbprojResolveAssemblyReference.cache
+C:\Users\DANIEL\Downloads\webService\webService\webService1\obj\Debug\webService1.Resources.resources
+C:\Users\DANIEL\Downloads\webService\webService\webService1\obj\Debug\webService1.vbproj.GenerateResource.Cache
+C:\Users\DANIEL\Downloads\webService\webService\webService1\obj\Debug\webService1.dll
+C:\Users\DANIEL\Downloads\webService\webService\webService1\obj\Debug\webService1.xml
+C:\Users\DANIEL\Downloads\webService\webService\webService1\obj\Debug\webService1.pdb
+C:\Users\Noe Gomez\Desktop\xxx\ingeniero\webService\webService1\obj\Debug\webService1.dll
+C:\Users\Noe Gomez\Desktop\xxx\ingeniero\webService\webService1\obj\Debug\webService1.xml
+C:\Users\Noe Gomez\Desktop\xxx\ingeniero\webService\webService1\obj\Debug\webService1.pdb
+C:\Users\Noe Gomez\Desktop\xxx\ingeniero\webService\webService1\obj\Debug\webService1.vbproj.AssemblyReference.cache
+C:\Users\Noe Gomez\Desktop\xxx\ingeniero\webService\webService1\obj\Debug\webService1.Resources.resources
+C:\Users\Noe Gomez\Desktop\xxx\ingeniero\webService\webService1\obj\Debug\webService1.vbproj.GenerateResource.cache
+C:\Users\Noe Gomez\Desktop\xxx\ingeniero\webService\webService1\obj\Debug\webService1.vbproj.CoreCompileInputs.cache
+C:\Users\Noe Gomez\Desktop\xxx\ingeniero\webService\webService1\bin\webService1.dll.config
+C:\Users\Noe Gomez\Desktop\xxx\ingeniero\webService\webService1\bin\webService1.dll
+C:\Users\Noe Gomez\Desktop\xxx\ingeniero\webService\webService1\bin\webService1.pdb
+C:\Users\Noe Gomez\Desktop\xxx\ingeniero\webService\webService1\bin\webService1.xml
+C:\Users\Noe Gomez\Desktop\xxx\ingeniero\webService\webService1\bin\LogicaNegocios.dll
+C:\Users\Noe Gomez\Desktop\xxx\ingeniero\webService\webService1\bin\LogicaNegocios.pdb
+C:\Users\Noe Gomez\Desktop\xxx\ingeniero\webService\webService1\bin\LogicaNegocios.xml
+C:\Users\Noe Gomez\Desktop\xxx\ingeniero\webService\webService1\obj\Debug\webService1.vbproj.CopyComplete

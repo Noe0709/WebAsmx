@@ -1,0 +1,15 @@
+C:\Users\Noe Gomez\Desktop\xxx\ingeniero\webService\webService1\bin\webService1.dll.config
+C:\Users\Noe Gomez\Desktop\xxx\ingeniero\webService\webService1\bin\webService1.dll
+C:\Users\Noe Gomez\Desktop\xxx\ingeniero\webService\webService1\bin\webService1.pdb
+C:\Users\Noe Gomez\Desktop\xxx\ingeniero\webService\webService1\bin\webService1.xml
+C:\Users\Noe Gomez\Desktop\xxx\ingeniero\webService\webService1\bin\LogicaNegocios.dll
+C:\Users\Noe Gomez\Desktop\xxx\ingeniero\webService\webService1\bin\LogicaNegocios.pdb
+C:\Users\Noe Gomez\Desktop\xxx\ingeniero\webService\webService1\bin\LogicaNegocios.xml
+C:\Users\Noe Gomez\Desktop\xxx\ingeniero\webService\webService1\obj\Release\webService1.vbproj.AssemblyReference.cache
+C:\Users\Noe Gomez\Desktop\xxx\ingeniero\webService\webService1\obj\Release\webService1.Resources.resources
+C:\Users\Noe Gomez\Desktop\xxx\ingeniero\webService\webService1\obj\Release\webService1.vbproj.GenerateResource.cache
+C:\Users\Noe Gomez\Desktop\xxx\ingeniero\webService\webService1\obj\Release\webService1.vbproj.CoreCompileInputs.cache
+C:\Users\Noe Gomez\Desktop\xxx\ingeniero\webService\webService1\obj\Release\webService1.vbproj.CopyComplete
+C:\Users\Noe Gomez\Desktop\xxx\ingeniero\webService\webService1\obj\Release\webService1.dll
+C:\Users\Noe Gomez\Desktop\xxx\ingeniero\webService\webService1\obj\Release\webService1.xml
+C:\Users\Noe Gomez\Desktop\xxx\ingeniero\webService\webService1\obj\Release\webService1.pdb
